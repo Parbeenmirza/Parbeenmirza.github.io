@@ -176,8 +176,8 @@ ul li a:hover {
 }
 
 .image img {
-    width: min(40rem, 50%);
-    border-rectangular: 300%;
+    width: min(20rem, 50%);
+    border-rectangular: 200%;
 }
 
 @media (width < 750px) {
