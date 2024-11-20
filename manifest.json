@@ -1,0 +1,20 @@
+{
+    "name": "Parbeen Mirza Portfolio",
+    "short_name": "PM Portfolio",
+    "icons": [
+      {
+        "src": "https://avatars.githubusercontent.com/u/178496961?v=4",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://avatars.githubusercontent.com/u/178496961?v=4",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+}
